@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# Obsidian: local UI state and caches
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+.obsidian/plugins/*/data.json
+
+# Obsidian trash and local recovery data
+.trash/
+.obsidian/file-recovery/
+
+# Temporary and backup files
+*.tmp
+*.bak
+*.swp
+*~
